@@ -19,4 +19,4 @@ If its somewhere on the river, a new point will be inserted in the river. By hol
 Press space to stop editing the river path.
 
 ## License
-This project is released as Open Source under a [MIT license](../Assets/InstantRiver/LICENSE.txt).
+This project is released as Open Source under a [MIT license](../blob/master/LICENSE.txt).
